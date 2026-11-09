@@ -1,0 +1,4 @@
+:root{color-scheme:dark}body{margin:0;background:#0d0d0d;color:#e9e4da;font:16px/1.7 -apple-system,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",sans-serif}
+main{max-width:760px;margin:0 auto;padding:40px 22px 80px}h1{font-size:28px;margin:0 0 4px}h2{font-size:19px;margin:34px 0 8px;color:#fff}
+.meta{color:#8e8c89;font-size:14px}a{color:#ffb347}nav{display:flex;gap:16px;margin:0 0 28px;font-size:14px}hr{border:0;border-top:1px solid #2a2a2a;margin:48px 0}
+li{margin:4px 0}.lang{font-size:13px;color:#8e8c89;letter-spacing:2px}
